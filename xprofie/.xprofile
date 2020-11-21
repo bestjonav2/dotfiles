@@ -1,0 +1,5 @@
+export PATH=$PATH:~/.npm-global/bin
+nitrogen --random --set-zoom-fill &
+picom -f &
+albert &
+xrandr -s 1920x1080
